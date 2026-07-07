@@ -56,7 +56,7 @@ Trip_Advisor/
 **Navin Balaji**
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/navinbalajis
 
 GitHub:
 https://github.com/Navin2112
